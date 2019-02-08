@@ -1,2 +1,0 @@
-Palabras clave que referencian a los issues:
-https://guides.github.com/features/issues/
